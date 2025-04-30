@@ -14,6 +14,7 @@ Approach:
 •  Use DATE_TRUNC() or EXTRACT() to group by month if your database supports it.
 ________________________________________
 3. SQL Queries
+   
 a) Orders and Sales by Status
    
 SELECT
