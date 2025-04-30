@@ -26,6 +26,8 @@ GROUP BY
   order_status
 ORDER BY
   total_orders DESC;
+
+  
 b) Orders and Sales by Month and Status
    
 SELECT
